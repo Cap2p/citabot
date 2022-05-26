@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09b96c7c-22a3-4d06-860c-19b9eda44c94" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +20,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
   </component>
   <component name="ProjectId" id="29hq6FKoCO2ftolD124hK1aAWdQ" />
   <component name="ProjectLevelVcsManager">
@@ -65,7 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1653575487185</updated>
       <workItem from="1653575488359" duration="1728000" />
-      <workItem from="1653577238664" duration="3165000" />
+      <workItem from="1653577238664" duration="3344000" />
     </task>
     <servers />
   </component>
