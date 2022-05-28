@@ -1,4 +1,4 @@
 import { Command } from "./Command";
-import { Hello } from "./commands/Hello";
+import { Citation } from "./commands/Citation";
 
-export const Commands: Command[] = [Hello];
+export const Commands: Command[] = [Citation];
