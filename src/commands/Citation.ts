@@ -1,6 +1,6 @@
 import { BaseCommandInteraction, Client } from "discord.js";
 import { Command } from "../Command";
-import { getCitation, getCitationFromCharacter } from '../api/getKamelottCitation'
+import { getCitation } from '../api/getKamelottCitation'
 
 export const Citation: Command = {
     name: "citation",
